@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/itreimagine/static/css/main.4ce33113.css",
+    "main.js": "/itreimagine/static/js/main.cdd49d94.js",
+    "static/js/787.ca1ade5b.chunk.js": "/itreimagine/static/js/787.ca1ade5b.chunk.js",
+    "index.html": "/itreimagine/index.html",
+    "main.4ce33113.css.map": "/itreimagine/static/css/main.4ce33113.css.map",
+    "main.cdd49d94.js.map": "/itreimagine/static/js/main.cdd49d94.js.map",
+    "787.ca1ade5b.chunk.js.map": "/itreimagine/static/js/787.ca1ade5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ce33113.css",
+    "static/js/main.cdd49d94.js"
+  ]
+}
