@@ -1,12 +1,53 @@
 /* HomePage.css */
-
-.homepage-container {
-    background-color: #f0f0f0;
-    padding: 20px;
+.home-container {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('your-background-image.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
   }
   
-  .homepage-header {
-    font-size: 24px;
+  header {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+  
+  .learn-more-btn {
+    background-color: #007bff;
+    color: #fff;
+    font-size: 1.2rem;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .learn-more-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .info {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #fff;
     color: #333;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+    text-align: left;
+    font-size: 1.2rem;
+    line-height: 1.6;
   }
   
